@@ -1,0 +1,22 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "Simple ReactJS application which can be used as students db with students list, rating, etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NessInesska/students.git"
+  },
+  "author": "inessaboro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NessInesska/students/issues"
+  },
+  "homepage": "https://github.com/NessInesska/students#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
